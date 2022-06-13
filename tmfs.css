@@ -1,6 +1,9 @@
+html {
+	background: url(imgs\TMFSeasons.png) no-repeat center fixed;
+	background-size: cover;
+
 body {
 	background-color: black;
-	background-image: url("img\TMFSeasons.png");
 }
 
 * {
